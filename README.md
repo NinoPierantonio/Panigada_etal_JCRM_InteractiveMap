@@ -24,17 +24,12 @@ This repository hosts the **interactive Leaflet map** accompanying the paper:
 
 ## 📄 Abstract
 
-The Hellenic Trench hosts the highest density of endangered sperm whales (*Physeter macrocephalus*) in the Eastern Mediterranean Sea. The area is an important feeding and breeding ground for the species and was designated as an Important Marine Mammal Area (IMMA) by the IUCN SSC/WCPA Marine Mammal Protected Areas Task Force in 2016.  
-This population faces high mortality due to vessel strikes, hydrocarbon exploration, and military activities, threatening its viability.  
-
-In July 2024, a solitary adult male was equipped with a minimally invasive ARGOS satellite-linked transmitter (Wildlife Computers Spot-365 LIMPET) southwest of Kefalonia, Greece. Over 57 days, its movements ranged from the Ionian Sea through the Hellenic Trench into the southern Aegean, with extended occupancy in the Dodecanese and Northeastern Aegean regions.  
-
-This represents the **first satellite track of a male sperm whale in Greece**, offering novel insights into habitat use, behaviour, and movement patterns, and identifying previously undocumented transit and residency areas. The results highlight critical zones for targeted conservation and demonstrate the value of satellite telemetry in informing marine mammal management strategies.
+The Hellenic Trench hosts the highest density of endangered sperm whales (*Physeter macrocephalus*) in the Eastern Mediterranean Sea. The area is an important feeding and breeding ground for the species and was designated as an Important Marine Mammal Area (IMMA) by the IUCN SSC/WCPA Marine Mammal Protected Areas Task Force in 2016.  This population faces high mortality due to vessel strikes, hydrocarbon exploration, and military activities, threatening its viability.  In July 2024, a solitary adult male was equipped with a minimally invasive ARGOS satellite-linked transmitter (Wildlife Computers Spot-365 LIMPET) southwest of Kefalonia, Greece. Over 57 days, its movements ranged from the Ionian Sea through the Hellenic Trench into the southern Aegean, with extended occupancy in the Dodecanese and Northeastern Aegean regions.  This represents the **first satellite track of a male sperm whale in Greece**, offering novel insights into habitat use, behaviour, and movement patterns, and identifying previously undocumented transit and residency areas. The results highlight critical zones for targeted conservation and demonstrate the value of satellite telemetry in informing marine mammal management strategies.
 
 ---
 
 ## 🐋 Keywords
-**Sperm whale; Physeter macrocephalus; Satellite tagging; Telemetry; Mediterranean Sea; Hellenic Trench; Conservation; Habitat use; Important Marine Mammal Areas (IMMAs)**
+**Sperm whale; *Physeter macrocephalus*; Satellite tagging; Telemetry; Mediterranean Sea; Hellenic Trench; Conservation; Habitat use; Important Marine Mammal Areas (IMMAs)**
 
 ---
 
@@ -45,7 +40,7 @@ It visualizes the ARGOS satellite track and associated environmental and spatial
 
 The map includes **selectable and deselectable layers**, allowing users to explore different environmental and spatial datasets relevant to the species’ movements and conservation context:
 
-- **World / Land Polygon (Coastline)**  
+- **World / Land Polygon**  
   Base polygon layer representing global coastlines.
 
 - **Overall Traffic Density (1 km)** — from [Global Fishing Watch](https://globalfishingwatch.org).  
@@ -83,7 +78,7 @@ The map includes **selectable and deselectable layers**, allowing users to explo
   Temporal progression of positions.
 
 - **Sperm Whale Track**  
-  The complete ARGOS satellite-derived track of the tagged individual.
+  The regularised interpolated satellite-derived track of the tagged individual.
 
 These layers together provide a comprehensive visual context linking the whale’s movements to environmental, anthropogenic, and conservation-relevant spatial data in Greek waters.
 
