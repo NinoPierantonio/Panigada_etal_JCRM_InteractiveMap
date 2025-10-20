@@ -6,7 +6,7 @@ This repository hosts the **interactive Leaflet map** accompanying the paper:
 > *Satellite tracking of a solitary sperm whale in Greek waters: relevance to conservation strategies.*  
 > *Journal of Cetacean Research and Management.*
 
-🔗 **View the interactive map:** [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://yourusername.github.io/Panigada_etal_JCRM_InteractiveMap/)
+🔗 **View the interactive map:** [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/)
 
 ---
 
@@ -94,7 +94,7 @@ These layers together provide a comprehensive visual context linking the whale�
 If referencing this resource, please cite as:  
 
 > Panigada, S. et al. (submitted). *Satellite tracking of a solitary sperm whale in Greek waters: relevance to conservation strategies.* *Journal of Cetacean Research and Management.*  
-> Interactive map available at: [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://yourusername.github.io/Panigada_etal_JCRM_InteractiveMap/)
+> Interactive map available at: [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/)
 
 ---
 
