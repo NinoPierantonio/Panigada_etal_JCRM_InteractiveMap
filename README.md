@@ -1,10 +1,10 @@
-# Interactive Map – *Satellite tracking of a solitary sperm whale in Greek waters: relevance to conservation strategies*
+# Interactive Map – *Short Communication: Satellite tracking of a solitary sperm whale in Greek waters: conservation implications*
 
 This repository hosts the **interactive Leaflet map** accompanying the paper:
 
-> **Panigada, S.**, **Panigada, V.**, **Alberini, A.**, **Godsil, N.**, **Johnson, C.**, **Zanardelli, M.**, and **Pierantonio, N.** (submitted).  
-> *Satellite tracking of a solitary sperm whale in Greek waters: relevance to conservation strategies.*  
-> *Journal of Cetacean Research and Management.*
+> **Panigada, S.**, **Panigada, V.**, **Alberini, A.**, **Godsil, N.**, **Johnson, C.**, **Zanardelli, M.**, and **Pierantonio, N.** **(2024)**.  
+> *Short Communication: Satellite tracking of a solitary sperm whale in Greek waters: conservation implications.*  
+> *Journal of Cetacean Research and Management, Special Issue 5 (2024–26), DOI: https://doi.org/10.47536/jcrm.v5i1.1119*
 
 🔗 **View the interactive map:** [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/)
 
@@ -24,7 +24,7 @@ This repository hosts the **interactive Leaflet map** accompanying the paper:
 
 ## 📄 Abstract
 
-The Hellenic Trench hosts the highest density of endangered sperm whales (*Physeter macrocephalus*) in the Eastern Mediterranean Sea. The area is an important feeding and breeding ground for the species and was designated as an Important Marine Mammal Area (IMMA) by the IUCN SSC/WCPA Marine Mammal Protected Areas Task Force in 2016.  This population faces high mortality due to vessel strikes, hydrocarbon exploration, and military activities, threatening its viability.  In July 2024, a solitary adult male was equipped with a minimally invasive ARGOS satellite-linked transmitter (Wildlife Computers Spot-365 LIMPET) southwest of Kefalonia, Greece. Over 57 days, its movements ranged from the Ionian Sea through the Hellenic Trench into the southern Aegean, with extended occupancy in the Dodecanese and Northeastern Aegean regions.  This represents the **first satellite track of a male sperm whale in Greece**, offering novel insights into habitat use, behaviour, and movement patterns, and identifying previously undocumented transit and residency areas. The results highlight critical zones for targeted conservation and demonstrate the value of satellite telemetry in informing marine mammal management strategies.
+The Hellenic Trench hosts the highest density of endangered sperm whales in the Eastern Mediterranean Sea and is recognised as an Important Marine Mammal Area (IMMA). This population is exposed to substantial anthropogenic pressures, including vessel strikes, hydrocarbon activities and military exercises. In July 2024, a solitary adult male was equipped with a minimally invasive ARGOS satellite‐linked transmitter southwest of Kefalonia, Greece. Over 57 days, the whale ranged from the Ionian Sea through the Hellenic Trench into the southern and northeastern Aegean Sea. Movement analyses revealed extended periods of localised movements southwest of Kefalonia‐Zakynthos and later in the northeastern Aegean, indicative of potential feeding behaviour, interspersed with phases of directed travel along the Hellenic Trench and across the Cyclades toward the Dodecanese. This is the first satellite track of a male sperm whale in Greece, providing novel insights into habitat use, movement strategies, and previously undocumented transit and residency areas. These findings highlight new key areas for place‐based conservation and demonstrate the value of satellite telemetry for informing targeted management in the Eastern Mediterranean.
 
 ---
 
@@ -57,10 +57,7 @@ The map includes **selectable and deselectable layers**, allowing users to explo
   Digitised from [Save Greek Seas](https://savegreekseas.com/en/home/).
 
 - **Areas to be Avoided (ATBAs)**  
-  Digitised from:  
-  Frantzis A., Leaper R., Alexiadou P., Prospathopoulos A., Lekkas D. (2019).  
-  *Shipping routes through core habitat of endangered sperm whales along the Hellenic Trench, Greece: Can we reduce collision risks?*  
-  *PLoS ONE* 14(2): e0212016. [https://doi.org/10.1371/journal.pone.0212016](https://doi.org/10.1371/journal.pone.0212016)
+  Digitised from:  Frantzis A., Leaper R., Alexiadou P., Prospathopoulos A., Lekkas D. (2019).  Shipping routes through core habitat of endangered sperm whales along the Hellenic Trench, Greece: Can we reduce collision risks? PLoS ONE* 14(2): e0212016. [https://doi.org/10.1371/journal.pone.0212016](https://doi.org/10.1371/journal.pone.0212016)
 
 - **Hellenic Trench IMMA (Important Marine Mammal Area)**  
   Obtained from the [Marine Mammal Protected Areas Task Force](https://www.marinemammalhabitat.org/immas/).
@@ -85,10 +82,27 @@ These layers together provide a comprehensive visual context linking the whale�
 
 ---
 
+## 🤝 Acknowledgments
+The cruise was organised as part of the framework of the project ‘Strengthening Cetacean Research and
+Conservation in the Hellenic Trench with the Blue Panda Vessel,’ which is funded by WWF Greece, within the
+framework of the ‘Greek Wildlife Alliance’ initiative. The cruise was organised in close collaboration with Nature
+Conservation Consultants (NCC), the University of St. Andrews, and the Hellenic Society for the Study and
+Protection of the Monk seal (MOm). We are grateful to NCC for the provision of the hydrophone, as well as to
+Jonathan Gordon and Kalliopi Gkikopoulou from the University of St. Andrews for their support in the hydrophone
+set‐up and operation. Finally, a special thanks goes to WWF France and the crew of the Blue Panda for their
+excellent support and contribution.
+All research activities, including visual material collection, were conducted with the relevant permits obtained
+from the Greek Marine Research Licensing Committee (MRLC) and the Ministry of Environment and Energy, with
+the assent of the Natural Environment & Climate Change Agency (NECCA).
+
+
+---
+
 ## 📜 Citation
 If referencing this resource, please cite as:  
 
-> Panigada, S. et al. (submitted). *Satellite tracking of a solitary sperm whale in Greek waters: relevance to conservation strategies.* *Journal of Cetacean Research and Management.*  
+> Panigada, S., Panigada, V., Alberini, A., Godsil, N., Johnson, C., Zanardelli, M., and Pierantonio, N. 2026. Short Communication: Satellite tracking of a solitary sperm whale in Greek waters: conservation implications. Journal of Cetacean Research and Management, Special Issue 5 (2024–26), DOI: https://doi.org/10.47536/jcrm.v5i1.1119
+>  
 > Interactive map available at: [https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/)
 
 ---
