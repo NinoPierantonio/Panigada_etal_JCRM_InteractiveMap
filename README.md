@@ -107,8 +107,14 @@ If referencing this resource, please cite as:
 
 ---
 
+## 🪪 Data Availability Statement
+
+The spatial layers presented in this interactive map are provided for visualisation purposes only. Access to the underlying datasets may be granted upon request to the corresponding author(s). Any reuse of the data requires appropriate citation of the associated publication.
+
+---
+
 ## 🪪 License
-© 2025 Tethys Research Institute and collaborators.  
+© 2026 Tethys Research Institute and collaborators.  
 Distributed for academic and non-commercial use under a [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
