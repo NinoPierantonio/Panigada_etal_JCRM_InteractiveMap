@@ -2,7 +2,7 @@
 
 This repository hosts the **interactive Leaflet map** accompanying the paper:
 
-> **Panigada, S.**, **Panigada, V.**, **Alberini, A.**, **Godsil, N.**, **Johnson, C.**, **Zanardelli, M.**, and **Pierantonio, N.** **(2024)**.  
+> **Panigada, S.**, **Panigada, V.**, **Alberini, A.**, **Godsil, N.**, **Johnson, C.**, **Zanardelli, M.**, and **Pierantonio, N.** **(2026)**.  
 > *Short Communication: Satellite tracking of a solitary sperm whale in Greek waters: conservation implications.*  
 > *Journal of Cetacean Research and Management, Special Issue 5 (2024–26), DOI: https://doi.org/10.47536/jcrm.v5i1.1119*
 
